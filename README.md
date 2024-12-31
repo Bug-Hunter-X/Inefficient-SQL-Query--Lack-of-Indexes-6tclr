@@ -1,0 +1,1 @@
+This repository demonstrates a common SQL performance issue: inefficient queries due to a lack of indexes.  The `bug.sql` file contains a query that can be slow on large tables without appropriate indexes. The `bugSolution.sql` file shows how to improve the query's performance by adding indexes.
